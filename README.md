@@ -527,7 +527,7 @@
             <h3>第三方SDK信息补充</h3>
             <ul>
                 <li>优量汇SDK：获取Android ID、IP地址、传感器信息、应用安装列表；</li>
-                <li>穿山甲广告SDK：获取Android ID、OAID、IP地址、MAC地址、应用安装列表；</li>
+                <li>穿山甲广告SDK：获取Android ID、OAID、IP地址、MAC地址、应用安装列表、传感器信息；</li>
                 <li>Unity3D SDK：获取Android ID；</li>
             </ul>
         </div>
